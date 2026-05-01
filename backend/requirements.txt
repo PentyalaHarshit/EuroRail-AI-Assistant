@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+python-dotenv
+groq
+requests
+reportlab
+qrcode
+pillow
+scikit-learn
+xgboost
+joblib
